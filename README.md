@@ -14,6 +14,9 @@ Statistical Monitoring: Implementation of statistical monitoring of vehicle move
 
 
 
-The figure below shows the classes of the system and the connections between them.
+The figure below shows the classes of the system and the connections between them:
 
-[ClassDiagram_Final.drawio-2.pdf](https://github.com/nikgeokar/smart_city_multi_agent_traffic_optimization/files/12506053/ClassDiagram_Final.drawio-2.pdf)
+
+<div align="center">
+  <img src="https://github.com/nikgeokar/smart_city_multi_agent_traffic_optimization/files/12506053/ClassDiagram_Final.drawio-2.pdf" alt="1" width="500"/>
+</div>
