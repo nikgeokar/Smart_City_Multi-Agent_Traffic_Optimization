@@ -1,5 +1,4 @@
 # Smart City Multi-Agent Traffic Optimization
-Smart City Multi-Agent Traffic Optimization
 
 Description:
 
